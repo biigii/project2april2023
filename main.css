@@ -1,43 +1,25 @@
-/* body {
-  background-color: darkgrey;
-} */
-
 .homepage {
   background-color: lightpink;
 }
 
-/* type selector */
-/* h1 {
-  color:  greenyellow;
-  font-size: 60px;
-  text-align: center;
-  text-transform: uppercase;
-} */
 
-/* class selector */
-.main-heading {
-  text-align: center;
-  text-transform: uppercase;
-}
 
-/* p {
-  font-size: 20px;
-  background-color: yellow;
-  color: blue
-} */
-
-/* this is a class */
-.text-1 {
-  color: darkgreen;
-  background-color: lightgreen;
-}
-
-.second-paragraph {
+#text {
   color: yellow;
   background-color: black;
 }
 
-.last-content {
-  color: white;
-  background-color: blue;
+.heading {
+  text-align: center;
+}
+
+#heading {
+  background-color: white;
+  color: purple
+}
+
+.content {
+  background-color: yellow;
+  color: orange;
+  font-size: 40px;
 }
