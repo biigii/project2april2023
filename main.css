@@ -1,0 +1,7 @@
+/* this is an external stylesheet file */
+p {
+  color: red;
+  background-color: pink;
+  text-transform: uppercase;
+  /* text-align: center; */
+}
